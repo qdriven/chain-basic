@@ -1,3 +1,0 @@
-[submodule "contracts/evm-contracts"]
-	path = contracts/evm-contracts
-	url = git@github.com:qdriven/evm-contracts.git
